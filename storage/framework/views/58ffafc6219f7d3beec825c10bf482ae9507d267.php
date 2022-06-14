@@ -1,0 +1,1 @@
+<?php /**PATH D:\HELENA\app\lamara\resources\views/Product.blade.php ENDPATH**/ ?>
